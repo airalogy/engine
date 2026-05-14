@@ -1,5 +1,5 @@
 {
-  "name": "airalogy-engine",
+  "name": "@airalogy/airalogy-engine",
   "version": "0.0.1",
   "description": "Airalogy protocol execute sandbox",
   "type": "module",
@@ -9,6 +9,9 @@
     "dist/",
     "protocol_executor.py"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "build": "pnpm run copy-executor && tsc",
     "lint": "oxlint --ignore-path=.gitignore",

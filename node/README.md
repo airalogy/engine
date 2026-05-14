@@ -5,7 +5,7 @@ Airalogy protocol execution sandbox for Node.js/TypeScript. Run protocol package
 ## Installation
 
 ```bash
-pnpm add airalogy-engine
+pnpm add @airalogy/airalogy-engine
 ```
 
 ## Sandbox Image
@@ -44,7 +44,7 @@ const result = await parseProtocol(protocolPath, undefined, {
 ## Usage
 
 ```typescript
-import { parseProtocol, assignVariable, validateVariables } from "airalogy-engine";
+import { parseProtocol, assignVariable, validateVariables } from "@airalogy/airalogy-engine";
 
 const protocolPath = "/path/to/your/protocol";
 const options = { rootfsPath: "/path/to/airalogy-engine-image" }; // or { image: "..." }
