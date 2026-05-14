@@ -1,6 +1,6 @@
 [project]
 name = "airalogy-engine"
-version = "0.0.1"
+version = "0.0.2"
 description = "Airalogy protocol execute sandbox"
 readme = "README.md"
 authors = [{ name = "Airalogy Team" }]
