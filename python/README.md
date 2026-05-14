@@ -1,5 +1,8 @@
 # airalogy-engine (Python)
 
+[![PyPI version](https://img.shields.io/pypi/v/airalogy-engine?label=PyPI)](https://pypi.org/project/airalogy-engine/)
+[![Python versions](https://img.shields.io/pypi/pyversions/airalogy-engine)](https://pypi.org/project/airalogy-engine/)
+
 Airalogy protocol execution sandbox for Python. Run protocol packages (`parse`, `assign`, `validate`) inside a secure [BoxLite](https://github.com/boxlite-ai/boxlite) sandbox.
 
 ## Installation

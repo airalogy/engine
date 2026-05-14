@@ -1,5 +1,7 @@
 # airalogy-engine (Node.js)
 
+[![npm version](https://img.shields.io/npm/v/%40airalogy%2Fairalogy-engine?label=npm)](https://www.npmjs.com/package/@airalogy/airalogy-engine)
+
 Airalogy protocol execution sandbox for Node.js/TypeScript. Run protocol packages (`parse`, `assign`, `validate`) inside a secure [BoxLite](https://github.com/boxlite-ai/boxlite) sandbox.
 
 ## Installation
